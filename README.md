@@ -18,5 +18,5 @@ python dVGG19.py #Train the model
 ```
 Once trained and the weight file is created, turn train flag to False and re-run.
 ```
-python dVGG19.py #Loads model with weight files and runs prediction on test dataset
+python dVGG19.py #Loads model with weight file and runs prediction on test dataset
 ```
