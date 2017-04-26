@@ -6,7 +6,7 @@
   
 ## CNN Model 2: 
 
-###VGG19 model:
+### VGG19 model:
 Files added:
 dVGG19.py
 
